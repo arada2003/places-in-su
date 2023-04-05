@@ -1,0 +1,31 @@
+body {
+  border: 1px solid gray;
+  padding: 8px;
+
+}
+
+h1 {
+  font-size: 30px;
+  color: rgb(8, 53, 19);
+  text-align: center;
+  background-color: #b9f8e0;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h2 {
+  font-size: 30px;
+  color: rgb(18, 88, 219);
+  text-align: center;
+  background-color: #e7fffb;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  margin-left: 50px;
+  margin-right: 50px;
+}

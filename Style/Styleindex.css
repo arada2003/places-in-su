@@ -1,0 +1,8 @@
+body {
+    font-family: 'Mitr', sans-serif;
+}
+h2 {
+    color: rgb(0, 0, 0);
+    -webkit-text-fill-color: rgb(255, 255, 255);
+    -webkit-text-stroke-width: 0.8px;
+  }
